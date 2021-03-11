@@ -7,7 +7,7 @@ import pickle
 from gungi.game import Game
 from gungi.board import *
 
-server = "172.16.87.186"
+server = ""
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

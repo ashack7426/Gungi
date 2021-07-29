@@ -1,5 +1,5 @@
 # Online-Gungi
-<img width="1214" alt="Screen Shot 2021-03-11 at 12 11 32 AM" src="https://user-images.githubusercontent.com/24733269/110739294-dfb83600-81fe-11eb-9b0f-480cb6a2af57.png">
+https://user-images.githubusercontent.com/24733269/127434763-69903887-8e93-4db8-92a7-628b31610754.mov
 
 Gungi is a fictional two-player strategy game invented by Yoshihiro Togashi, creator of the popular manga series, Hunter X Hunter. This chess inspired game is taken to a new level by adding a third dimension to the gameplay by allowing pieces to stack on top of one another. While no official ruleset exists, dedicated fans attempted to make one themeselves. I would like to give a special thanks to the Hunter Hunter community for making this game possible.
 
